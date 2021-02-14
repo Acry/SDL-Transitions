@@ -61,6 +61,11 @@ Draw the first image, update the screen.
 Draw the second image, update every other pixel using SDL_UpdateRects
 Update the rest of the screen. 
 
+## Zoom effects
+
+### Dolly Zoom Effect
+
+### Roto Zoomer
 
 ## Unsorted
 

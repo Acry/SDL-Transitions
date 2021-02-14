@@ -5,7 +5,7 @@ Transitions from one scene or action to another can be done in a plenty of ways.
 They can be done linear or not. See [my repo for non linear animations](https://github.com/Acry/Non-Linear-Animations)
 
 See: 
-<https://www.jssor.com/development/tool-slideshow-transition-viewer.html> for all kind of transitions.
+<https://www.jssor.com/development/tool-slideshow-transition-viewer.html> for all kinds of transitions.
 
 Just be aware there is nothing fancy or new in transitions. The math is very old and it has been used for decades. It is just eye candy.
 
